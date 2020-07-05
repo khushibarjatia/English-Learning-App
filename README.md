@@ -30,8 +30,8 @@ Features:
   
   If the user is on the Advanced Course, he can monitor his progress.
   
-* Dictionary: This contains all possible words one can think of. The user can search any word and it's meaning will appear.
+* Dictionary: This contains all possible words one can think of. The user can search any word and it's meaning will be provided.
 
-* More About English: This contains some English Grammar books that the user can refer to.
+* More About English: This contains some English Grammar books that the user can refer to improve his grammar skills.
 
 * Story Books: This includes a lot of English Novels like Adventure Books, Horror Books, Thriller Books and a lot more!
