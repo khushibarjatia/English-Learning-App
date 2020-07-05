@@ -40,6 +40,18 @@ GitHub repo link: https://github.com/khushibarjatia/English-Learning-App
 
 Drive link: 
 
+## Technology Stack
+
+   1. Flutter
+   
+   2. Flask
+   
+   3. SQLAlchemy 
+   
+## Project Setup
+
+
+
 
 
 
