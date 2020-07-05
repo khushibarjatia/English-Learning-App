@@ -11,3 +11,9 @@
    * Neha Shinde - 
    
    * Prachiti Barge - 
+   
+## Mentors
+
+   * Saif Kazi
+   
+   * Bhavya Sheth
