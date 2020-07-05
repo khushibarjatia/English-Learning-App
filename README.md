@@ -42,11 +42,11 @@ Drive link:
 
 ## Technology Stack
 
-   1. Flutter
+   * Flutter
    
-   2. Flask
+   * Flask
    
-   3. SQLAlchemy 
+   * SQLAlchemy 
    
 ## Project Setup
 
