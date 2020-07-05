@@ -8,7 +8,7 @@
    
    * Amartya Patil - 
    
-   * Neha Shinde - 
+   * Neha Shinde - nehashinde3399@gmail.com
    
    * Prachiti Barge - 
    
