@@ -6,11 +6,11 @@
 
    * Khushi Barjatia - khushibarjatia@gmail.com
    
-   * Amartya Patil - 
+   * Amartya Patil - amartyapatil879@gmail.com 
    
    * Neha Shinde - nehashinde3399@gmail.com
    
-   * Prachiti Barge - 
+   * Prachiti Barge - prachitibarge01@gmail.com 
    
 ## Mentors
 
@@ -49,6 +49,16 @@ Drive link:
    * SQLAlchemy 
    
 ## Project Setup
+
+
+
+## Usage
+
+
+
+## Applications
+
+
 
 
 
