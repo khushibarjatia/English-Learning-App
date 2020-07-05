@@ -24,4 +24,8 @@ This app is intended for users who want to learn English Language or need extra 
 
 Features:
 
-* test
+* Analyze Yourself- This will contain a quiz that the user can take.
+  If the user is on the Basic Course and if he does well in this quiz, he can get access to the Advanced Course.
+  If the user is on the Advanced Course, he can monitor his progress.
+  
+* Dictionary- 
