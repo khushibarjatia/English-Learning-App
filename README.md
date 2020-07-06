@@ -50,7 +50,13 @@ Drive link: https://drive.google.com/folderview?id=1B_dce5y8vBllPv_TN-9t1yex-twK
    
 ## Project Setup
 
+To setup our project on your local system, these are the steps to be followed- 
 
+   * Fork our repository using the fork button in the header of the repository -  https://github.com/khushibarjatia/English-Learning-App
+   
+   * To be able to work on our project, user needs to clone the above repository by
+      either clicking on the clone option and copying the link(using GitHub desktop)
+      or using command line.
 
 ## Usage
 
