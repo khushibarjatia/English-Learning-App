@@ -53,7 +53,30 @@ Drive link:
 
 
 ## Usage
-
+  You have to follow the following order to know benifits of our application:
+  
+    * When you will install our app ,you will have to first register in our app so that we can create users
+      account and you can  access it anytime.
+  
+    * When you will open the app, you will see two options as learn english and more.
+    
+    * If you select the option learn english you will have to give quiz for your analyzation.
+    
+    * After submission of your quiz answers ,you will be categarized as basic learner or advanced learner. 
+    
+    * According to your grades ,we will suggest you some courses.
+    
+    * Once you done with grading, basic and advanced courses will be displayed on screen according to your performance in quiz.
+    
+    * If you are alloted as basic learner then you will able to access basic courses only not advanced and if you are alloted as
+      advanced learner then both advanced and basic courses you can access.
+    
+    * At start if you select more option then you will get other features of our application.
+    
+    * And on the left corner of app bar you will see there are three lines , on clicking a drawer of six options get opened including
+      some more features of our app like books, dictionary, analyze yourself ,some pdfs for reference and so on .
+    
+    
 
 
 ## Applications
