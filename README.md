@@ -60,6 +60,8 @@ Drive link:
 
 
 
+
+
 ## Future Scope
 
 There are a lot of features that can be added to the project such as:
@@ -71,7 +73,10 @@ There are a lot of features that can be added to the project such as:
    * A chatbot can be added to the app so that the user can also work on his accent and pronounciation.
    
    * A translator can be added that translates something written in some other language to English. 
-
+   
+   * The user's progress can be monitored by displaying his previous tests' scores and his areas of improvement in the form of a pie chart.
+   
+## Screenshots 
 
 
 
