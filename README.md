@@ -58,9 +58,15 @@ Drive link:
 
 ## Applications
 
+This app has several use cases that are listed below:
 
-
-
+   * Students: Can learn English from scratch to reach basic/intermediate/expert level competence. 
+   
+   * Working professionals with non-English background: Can learn most often used words in a professional setup/ at the workplace to become more effective in the competitive world. This provides a very good medium to learn the language without having to undergo instructor led courses that are time consuming.
+   
+   * Test takers for competitive exams: Users can benefit by being able to prepare for competitve exams, in addition to honing language skills. 
+   
+E-Learning is the most sought after medium to enhance knowledge in any field. This application provides the perfect solution to address English proficiency gap amongst a wide population that includes 1.3 Billion Indians. Most of the apps that exist today are complex and difficult to use. This app has a good user interface, is easy to use and addresses the basic requirements in a very simple to understand format. This sleek app will provide the much needed comfort to wide section of students/professionals to at least get attracted to English as a must-know language and learn the same in a fun-filled manner.
 
 ## Future Scope
 
@@ -75,6 +81,8 @@ There are several features that will be added in the next phase to further enhan
    * Translation module can be added to help translate words/sentences from other languages to English. This will help adoption of this app across variety of non-English speaking audience/users. 
    
    * The user's progress can be monitored by subjecting him to take regular tests to gauge his expertise on English during the course of his learning. Reporting module can then be included to display his current and previous tests that will provide a very clear indicator of gaps to overcome in subsequent sessions. Comparative charts (bar/pie) can be displayed to showcase user's performance vis-a-vis benchmark results targeted. 
+   
+   * Closed user group can be created to provide a platform to exchange thoughts/ discuss challenges/ idea sharing to make the entire learning experience very interactive. 
    
 ## Screenshots 
 
