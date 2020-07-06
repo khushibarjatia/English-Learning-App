@@ -60,7 +60,6 @@ To setup our project on your local system, these are the steps to be followed-
       
       ```
       git clone https://github.com/khushibarjatia/English-Learning-App
-      
       ```
 ## Usage
 
