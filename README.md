@@ -94,7 +94,7 @@ There are several features that will be added in the next phase to further enhan
    
 ## Screenshots 
 
-https://drive.google.com/file/d/1Bpgvz8RbUYbYxxsvNQ0QGmQtAaEU5fdC/view?usp=sharing 
+![image](https://drive.google.com/uc?export=view&id=1Bpgvz8RbUYbYxxsvNQ0QGmQtAaEU5fdC) 
 
 
 
