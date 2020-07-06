@@ -56,8 +56,12 @@ To setup our project on your local system, these are the steps to be followed-
    
    * To be able to work on our project, user needs to clone the above repository by
       either clicking on the clone option and copying the link(using GitHub desktop)
-      or using command line.
-
+      or using command line-
+      
+      ```
+      git clone https://github.com/khushibarjatia/English-Learning-App
+      
+      ```
 ## Usage
 
 Below is the list of steps involved to access and use the application:
