@@ -60,6 +60,20 @@ Drive link:
 
 
 
+## Future Scope
+
+There are a lot of features that can be added to the project such as:
+   
+   * Word of the Day and Phrase of the Day can be displayed so that the user can learn a new word and phrase each day in a fun manner.
+   
+   * Some riddles, crosswords and puzzles can be a part of the app.
+   
+   * A chatbot can be added to the app so that the user can also work on his accent and pronounciation.
+   
+   * A translator can be added that translates something written in some other language to English. 
+
+
+
 
 
 
