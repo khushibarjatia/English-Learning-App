@@ -24,17 +24,17 @@ This app is intended for users who want to learn English Language and need extra
 
 Features:
 
-* Analyze Yourself: This will contain a quiz that the user can take.
+* Analyze Yourself: This will contain a quiz that users can take.
 
-  If the user is on the Basic Course and if he does well in this quiz, he can get access to the Advanced Course.
+  If the user is on the Basic Course and does well in this quiz, he gets access to the Advanced Course.
   
-  If the user is on the Advanced Course, he can monitor his progress.
+  If the user is on the Advanced Course, he can monitor his progress. 
   
-* Dictionary: This contains all possible words one can think of. The user can search any word and it's meaning will be provided.
+* Dictionary: This contains all possible words one can think of. The user can search any word and it's meaning will be provided. This will enable the user to get words that can then be used to frame meaningful sentences, thereby increasing his proficiency in verbal and written vocabulary.
 
-* More About English: This contains English Grammar books that the user can refer to improve his grammar skills.
+* More About English: This contains links to list of the most widely used English Grammar books for user reference.
 
-* Story Books: This includes English Novels like Adventure Books, Horror Books, Thriller Books and a lot more!
+* Story Books: This includes links to best selling English Novels across categories like Adventure, Horror, Science Fiction, Biographies, etc. This will help improve users' spoken and written English besides providing interesting topics to read, research, etc.
 
 GitHub repo link: https://github.com/khushibarjatia/English-Learning-App 
 
@@ -64,17 +64,17 @@ Drive link:
 
 ## Future Scope
 
-There are a lot of features that can be added to the project such as:
+There are several features that will be added in the next phase to further enhance the applicability of the app such as:
    
-   * Word of the Day and Phrase of the Day can be displayed so that the user can learn a new word and phrase each day in a fun manner.
+   * 'Word of the Day' and 'Phrase of the Day' can be displayed as a ticker to help users learn a new word and phrase each day in a fun manner. This will also help users to crack competitive exams like TOEFL, SAT, etc.
    
-   * Some riddles, crosswords and puzzles can be a part of the app.
+   * Some riddles, crosswords and puzzles can be included in the app.
    
-   * A chatbot can be added to the app so that the user can also work on his accent and pronounciation.
+   * Chatbot functionality can be added to provide an interface for users to get prompt responses to queries in real time mode. 
    
-   * A translator can be added that translates something written in some other language to English. 
+   * Translation module can be added to help translate words/sentences from other languages to English. This will help adoption of this app across variety of non-English speaking audience/users. 
    
-   * The user's progress can be monitored by displaying his previous tests' scores and his areas of improvement in the form of a pie chart.
+   * The user's progress can be monitored by subjecting him to take regular tests to gauge his expertise on English during the course of his learning. Reporting module can then be included to display his current and previous tests that will provide a very clear indicator of gaps to overcome in subsequent sessions. Comparative charts (bar/pie) can be displayed to showcase user's performance vis-a-vis benchmark results targeted. 
    
 ## Screenshots 
 
