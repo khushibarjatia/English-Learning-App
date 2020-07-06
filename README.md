@@ -98,12 +98,17 @@ There are several features that will be added in the next phase to further enhan
 
 ![image](https://drive.google.com/uc?export=view&id=1Bpgvz8RbUYbYxxsvNQ0QGmQtAaEU5fdC) 
 
+![image](https://drive.google.com/uc?export=view&id=1C2Td2PIZFwRl0BsltcQYCCofxZYm4Gc-) 
+
+![image](https://drive.google.com/uc?export=view&id=1C-VvGPsx21Q5JrHAlW1M6foE6c1xbAfD) 
+
 ![image](https://drive.google.com/uc?export=view&id=1Bqg8L0_b3T0icd_h7UD2yu6EEbho9ndH)
 
 
 
 ![image](https://drive.google.com/uc?export=view&id=1Bw2zkpIZjfB3DyniYe5nqfMdV_iDxmb7)
 
+![image](https://drive.google.com/uc?export=view&id=1C3x6eNVWi2YaS8cIQzPU759tEZWZ4iCA) 
 
 
 
