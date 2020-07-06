@@ -54,31 +54,15 @@ Drive link: https://drive.google.com/folderview?id=1B_dce5y8vBllPv_TN-9t1yex-twK
 
 ## Usage
 
-You have to follow the following order to know benifits of our application:
-  
-   * When you will install our app ,you will have to first register in our app so that we can create users
-      account and you can  access it anytime.
-  
-   * When you will open the app, you will see two options as learn english and more.
-    
-   * If you select the option learn english you will have to give quiz for your analyzation.
-    
-   * After submission of your quiz answers ,you will be categarized as basic learner or advanced learner. 
-    
-   * According to your grades ,we will suggest you some courses.
-    
-   * Once you done with grading, basic and advanced courses will be displayed on screen according to your performance in quiz.
-    
-   * If you are alloted as basic learner then you will able to access basic courses only not advanced and if you are alloted as
-      advanced learner then both advanced and basic courses you can access.
-    
-   * At start if you select more option then you will get other features of our application.
-    
-   * And on the left corner of app bar you will see there are three lines , on clicking a drawer of six options get opened including
-      some more features of our app like books, dictionary, analyze yourself ,some pdfs for reference and so on .
-    
-    
+Below is the list of steps involved to access and use the application:
 
+   * The user has to initially register and then log in to the app.
+   
+   * Then the user will be prompted to take a quiz that will help ascertain the calibre of the user. Based on the score, the user will be assigned either the Basic or Advanced Course.
+   
+   * If the user is alloted the Basic Course, then he will be able to access basic courses only and not the advanced ones. However, both Basic and Advanced courses will be accessible to users who are alloted the Advanced Course.
+   
+   * In addition to the above, there are other features as well that have been listed in the Description Section. These features can be accessed by clicking on the top left corner of the menu bar.
 
 ## Applications
 
